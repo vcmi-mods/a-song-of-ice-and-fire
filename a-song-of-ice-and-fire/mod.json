@@ -5,12 +5,12 @@
 	"version" : "1.00",
 	"modType" : "Maps",	
 	"contact" : "mr.ilya2000@yandex.ru",
-    "compatibility" :
-    {
-        "min" : "1.6.0"
-    },
-    "changelog" :
-    {
-        "1.00" : ["Initial release"]
+	"compatibility" :
+	{
+		"min" : "1.6.0"
+	},
+	"changelog" :
+	{
+	"1.00" : ["Initial release"]
 	}
 }
