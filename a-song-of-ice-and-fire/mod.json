@@ -2,7 +2,7 @@
 	"name" : "A Song of Ice & Fire",
 	"description" : "56 maps influenced by G.R.R. Martin books",
 	"author" : "Ilya Shurko (Ionis), avatar (VCMI port)",
-	"version" : "1.00",
+	"version" : "1.01",
 	"modType" : "Maps",	
 	"contact" : "mr.ilya2000@yandex.ru",
 	"compatibility" :
@@ -11,6 +11,63 @@
 	},
 	"changelog" :
 	{
-	"1.00" : ["Initial release"]
+		"1.01" : ["Added various translations created by Heroes Launcher translation tools"],
+		"1.00" : ["Initial release"]
+	},
+	"czech" : {
+		"name": "Píseň ledu a ohně",
+		"description": "56 map inspirovaných knihami G.R.R. Martina",
+		"translations" : [
+			"translation/a-song-of-ice-and-fire/czech.json"
+		]
+	},
+	"chinese" : {
+		"name": "冰与火之歌",
+		"description": "受G.R.R.马丁小说启发的56张地图",
+		"translations" : [
+			"translation/a-song-of-ice-and-fire/chinese.json"
+		]
+	},
+	"english" : {
+		"name": "A Song of Ice & Fire",
+		"description": "56 maps influenced by G.R.R. Martin books",
+		"translations" : [
+			"translation/a-song-of-ice-and-fire/english.json"
+		]
+	},
+	"german" : {
+		"name": "Das Lied von Eis und Feuer",
+		"description": "56 Karten inspiriert von den Büchern von G.R.R. Martin",
+		"translations" : [
+			"translation/a-song-of-ice-and-fire/german.json"
+		]
+	},
+	"hungarian" : {
+		"name": "A Tűz és Jég dala",
+		"description": "56 térkép G.R.R. Martin könyvei alapján",
+		"translations" : [
+			"translation/a-song-of-ice-and-fire/hungarian.json"
+		]
+	},
+	"polish" : {
+		"name": "Pieśń Lodu i Ognia",
+		"description": "56 map inspirowanych książkami G.R.R. Martina",
+		"translations" : [
+			"translation/a-song-of-ice-and-fire/polish.json"
+		]
+	},
+	"russian" : {
+		"name": "Песнь Льда и Пламени",
+		"description": "56 карт, вдохновленных книгами Дж. Р. Р. Мартина",
+		"translations" : [
+			"translation/a-song-of-ice-and-fire/russian.json"
+		]
+	},
+	"ukrainian" : {
+		"name": "Пісня льоду й полум'я",
+		"description": "56 карт, натхненних книгами Д.Р.Р. Мартіна",
+		"translations" : [
+			"translation/a-song-of-ice-and-fire/ukrainian.json"
+		]
 	}
 }
